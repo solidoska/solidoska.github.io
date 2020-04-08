@@ -1,0 +1,36 @@
+form{
+  /*a fontok és egyéb lehetőségek a CTRL+SPACE-el hozhatóak elő*/
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  
+} 
+
+input[type=text] {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #56d64d;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+input[type=password] {
+  width: 200px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #56d64d;
+  border-radius: 5px;
+  font-weight: bold;
+}
+button{
+  /*a fontok és egyéb lehetőségek a CTRL+SPACE-el hozhatóak elő*/
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  border: 2px solid #56d64d;
+  background: #56d64d;
+  border-radius: 40px;
+  padding: 20px 20px;
+  font-weight: bold;
+}

@@ -1,0 +1,23 @@
+form{
+  /*a fontok és egyéb lehetőségek a CTRL+SPACE-el hozhatóak elő*/
+  font-family: 'Montserrat', sans-serif;
+  width: 500px;
+  
+  
+} 
+legend {
+    padding: 3px 6px;
+}
+
+.output {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
+.why {
+  width: 250px;
+  height: 100px;
+  
+}

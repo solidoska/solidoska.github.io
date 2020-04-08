@@ -1,0 +1,33 @@
+h1 {
+
+  border: 5px #4285f4 solid;
+  text-align: center;
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size: 24px;
+  width: 200px;
+ 
+}
+.North {
+  color: white;
+  background: #E67676;
+  padding: 30px;
+  margin: 0px;
+}
+.East {
+  color: white;
+  background: #F2F062;
+  padding: 30px;
+  margin: 0px;
+}
+.South {
+  color: white;
+  background: #A9E6E6;
+  padding: 30px;
+  margin: 0px;
+}
+.West {
+  color: white;
+  background: #7692E4;
+  padding: 30px;
+  margin: 0px;
+}

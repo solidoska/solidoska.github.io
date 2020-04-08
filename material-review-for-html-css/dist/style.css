@@ -1,0 +1,35 @@
+body{
+  /*a fontok és egyéb lehetőségek a CTRL+SPACE-el hozhatóak elő*/
+  font-family: 'Montserrat', sans-serif;
+  
+}  
+h1, h2 {
+  background: #4287f5;
+  color: white;
+  padding: 20px;
+  /*a paddinghez tartozó leírás*/
+  border: 2px solid gray;
+  margin: 10px;
+  border-radius: 10px 10px 10px 10px;
+  height: 50px;
+  /*a heighthez tartozó leírás*/
+  width: 1000px;
+}
+h1 {
+  font-size: 30px;
+}
+
+.red {
+  color: red;
+  font-size: 34px;
+  text-shadow: #FC0 1px 0 10px;
+  
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
